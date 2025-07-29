@@ -1,0 +1,12 @@
+{
+  "name": "arquitectura-microserveis",
+  "version": "1.0.0",
+  "description": "Projecte amb microserveis simulats",
+  "scripts": {
+    "start-users": "node services/users/app.js",
+    "start-products": "node services/products/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
