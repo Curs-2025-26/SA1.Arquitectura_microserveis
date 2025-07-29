@@ -1,0 +1,5 @@
+### Obtenir usuaris
+GET http://localhost:3001/users
+
+### Obtenir productes
+GET http://localhost:3002/products
